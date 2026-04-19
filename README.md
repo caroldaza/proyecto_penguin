@@ -31,7 +31,7 @@ Construir un pipeline end-to-end que incluya:
 ## Instalación
 
 ```bash
-git clone <repo>
+git clone git@github.com:caroldaza/proyecto_penguin.git
 cd proyecto_penguin
 
 python3 -m venv venv
