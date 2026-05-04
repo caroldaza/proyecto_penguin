@@ -252,3 +252,5 @@ El proyecto implementa un flujo completo de machine learning:
 Se prioriza claridad, simplicidad y separación de responsabilidades. 
 
 Esta solución representa un punto de partida que puede extenderse hacia enfoques más complejos, como modelos avanzados de NLP, la incorporación de LLMs para enriquecer el sistema de recomendación (por ejemplo, mediante embeddings o generación de explicaciones), o arquitecturas productivas escalables.
+
+La solución del modelo de predicción y el recomendador se presentan en la misma api por facilidad pero constituyen problemas de negocio distintos.
